@@ -1,0 +1,4 @@
+.input-outline[type=text]:focus{
+    outline: steelblue !important;
+    border: 2px solid gray !important;
+}

@@ -1,0 +1,10 @@
+.main-container {
+  background-image: url("../../Asset/welcome/welcome.jpg");
+  background-size: cover;
+}
+
+.image-overlay {
+  width: 100%;
+  height: 100%;
+  background-color: rgba(66, 17, 42, 0.74);
+}
